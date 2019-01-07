@@ -8,6 +8,8 @@ Last year Computer Science student looking for software related opportunities!
 
 ### More Information
 
+Location: Chicago / USA
+
 Languages (significant experience in bold):
 * **C++**
 * **Python**
