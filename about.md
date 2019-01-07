@@ -4,12 +4,28 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Last year Computer Science student looking for software related opportunities!
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Languages (significant experience in bold):
+* **C++**
+* **Python**
+* PHP
+* Scheme
+* JavaScript
+* Java
 
-### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+Technologies (most experienced to least):  
+* **Git**
+* **Linux**
+* SQL
+* HTML 
+* CSS 
+* PyTorch
+
+
+<!-- ### Contact me -->
+
+
